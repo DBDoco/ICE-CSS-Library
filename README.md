@@ -11,11 +11,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://cerulean-longma-b8b166.netlify.app">
       Showcase
     </a>
     <span> | </span>
-        <a href="">
+        <a href="https://tiny-halva-829af1.netlify.app">
       Prototype Page
     </a>
 </h3>
@@ -23,52 +23,52 @@
 
 ## Features
 
-#Components
-👉 Button (ex. .btn-"color", .btn-outlined-"color", .btn-complement-"color")
-👉 Card (includes: .card-title, .card-body)
-👉 Navbar (includes: .navbar-title)
-
-#Colors
-👉 Dark and white variations for each color (ex. .text-"color"-dark-"1-9")
-👉 "primary"
-👉 "secondary"
-👉 "error"
-👉 "info"
-👉 "blue"
-👉 "red"
-👉 "yellow"
-👉 "green"
-👉 "orange"
-👉 "purple"
-👉 "gray"
-👉 "black"
-👉 "white"
-
-#Text
-👉 Font sizes (ex. font-size-sm, font-size-lg, .font-size-xl, .font-size-xxl)
-👉 Colors for text and background of text (ex. .text-"color", .bg-"color"-light-"1-9")
-👉 Hover effects (ex. .text-hover-"color")
-
-#Breakpoints
-👉 Extra small
-👉 Small
-👉 Medium
-👉 Large
-👉 Extra large
-
-#Utilities
-👉 Padding (Padding left, right, top, bottom) (ex. .pl-1, .pr-2)
-👉 Margin (Margin left, right, top, bottom) (ex. .ml-1, .mr-2)
-👉 Opacitiy (ex. .0-20, .0-10)
-👉 Border-radius (ex. .br-xs, .br-full)
-👉 Display (ex. display-f, display-n)
-👉 Font size (ex. .font-size-sm, .font-size-md)
-
-#Grid system
-Similiar to Bootstrap grid, devided by rows and columns.
-👉 ex. .col-"1-12"-xs, .col-"1-12"-md
-👉 Grid gap (ex. .gap-"1-3")
-
+### Components
+👉 Button (ex. .btn-"color", .btn-outlined-"color", .btn-complement-"color")<br>
+👉 Card (includes: .card-title, .card-body)<br>
+👉 Navbar (includes: .navbar-title)<br>
+<br>
+### Colors
+👉 Dark and white variations for each color (ex. .text-"color"-dark-"1-9")<br>
+👉 "primary"<br>
+👉 "secondary"<br>
+👉 "error"<br>
+👉 "info"<br>
+👉 "blue"<br>
+👉 "red"<br>
+👉 "yellow"<br>
+👉 "green"<br>
+👉 "orange"<br>
+👉 "purple"<br>
+👉 "gray"<br>
+👉 "black"<br>
+👉 "white"<br>
+<br>
+### Text
+👉 Font sizes (ex. font-size-sm, font-size-lg, .font-size-xl, .font-size-xxl)<br>
+👉 Colors for text and background of text (ex. .text-"color", .bg-"color"-light-"1-9")<br>
+👉 Hover effects (ex. .text-hover-"color")<br>
+<br>
+### Breakpoints
+👉 Extra small<br>
+👉 Small<br>
+👉 Medium<br>
+👉 Large<br>
+👉 Extra large<br>
+<br>
+### Utilities
+👉 Padding (Padding left, right, top, bottom) (ex. .pl-1, .pr-2)<br>
+👉 Margin (Margin left, right, top, bottom) (ex. .ml-1, .mr-2)<br>
+👉 Opacitiy (ex. .0-20, .0-10)<br>
+👉 Border-radius (ex. .br-xs, .br-full)<br>
+👉 Display (ex. display-f, display-n)<br>
+👉 Font size (ex. .font-size-sm, .font-size-md)<br>
+<br>
+### Grid system
+Similiar to Bootstrap grid, devided by rows and columns.<br>
+👉 ex. .col-"1-12"-xs, .col-"1-12"-md<br>
+👉 Grid gap (ex. .gap-"1-3")<br>
+<br>
 
 ## Optimization
 Gulp compiles all css classes which are then purged by gulp.purgecss package. Basically all classes that aren't used in html file are deleted.
