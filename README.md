@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<h4 align="center">Lightweight CSS Library made with <a href="https://sass-lang.com">SASS</a> and inspired by <a href="https://getbootstrap.com">Bootstrap</a>.<a href="https://gulpjs.com">Gulp.js</a> is used for compiling sass files to css and for debuging. Library can be used for multiple html pages inside of the work directory.</h4>
+<h4 align="center">Lightweight CSS Library made with <a href="https://sass-lang.com">SASS</a> and inspired by <a href="https://getbootstrap.com">Bootstrap</a>.<a href="https://gulpjs.com"> Gulp.js</a> is used for compiling sass files to css and for debuging. Library can be used for multiple html pages inside of the work directory.</h4>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/bfDjEUX11WQs3072iw/giphy.gif?cid=790b761166f062b4ff2272e0bad3231cfb9cbdff3afd6cd1&rid=giphy.gif&ct=g" alt="ice" />
